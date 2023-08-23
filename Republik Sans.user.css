@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name			Republik Sans
+@author			Nick
+@version		1.0.0
+@namespace		cascadea328380748
+@preprocessor	less
+==/UserStyle== */
+
+@-moz-document domain("republik.ch")
+{
+	body, div, span, p {
+		font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif !important;
+	}
+	
+	h1, h2, h3, h4, h5, h6 {
+		font-family: GT-America-Standard-Bold, "Helvetica Neue", Helvetica, sans-serif !important;
+		font-weight: 700 !important;
+	}
+}
